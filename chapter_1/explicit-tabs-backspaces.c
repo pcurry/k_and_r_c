@@ -7,13 +7,13 @@ main() {
   int c;
 
   while ((c = getchar()) != EOF) {   
-    if(c == '\t' || c == '\b' || c == '\\') {
+    if (c == '\t' || c == '\b' || c == '\\') {
       putchar('\\');
-      if(c == '\t') {
+      if (c == '\t') {
 	putchar('t');
       } 
       else {
-	if(c == '\b') {
+	if (c == '\b') {
 	  putchar('b');
 	}
 	else {
