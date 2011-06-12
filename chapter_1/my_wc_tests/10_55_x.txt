@@ -1,0 +1,10 @@
+one
+ two three
+four    five		six
+seven		eight nine		 	 ten
+eleven	twelve	thirteen	fourteen	fifteen
+sixteen seventeen eighteen nineteen	twenty	twenty-one
+twenty-two twenty_three t_w_e_n_t_y-f_o_u_r 25 20_6 tenplustenplusseven 28
+ 29  30  31 thirtytwo 33 34 thirtyfive thirty6
+37	38	39	forty	41 42 43 44 45
+four-6 twoscoreandseven 48 49 fifty 51 five2 5three 54 		5times11

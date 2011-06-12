@@ -1,0 +1,10 @@
+I would test the word count program by preparing files with known
+numbers of characters, words, and lines.  I would then programatically
+run my_wc with those files as input, capture the output, and compare
+that to the filename, which would encode the expected output.
+
+Inputs that would uncover errors would include boundary conditions.
+So, an empty file should count 0 0 0.  Files including just newlines
+should have the same number of characters as lines.  Files with one
+word per line should count as such.  A file with one huge word should
+count correctly.
